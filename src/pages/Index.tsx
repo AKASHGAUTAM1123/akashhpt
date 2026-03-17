@@ -13,11 +13,21 @@ const Index = () => {
       <Navbar />
       <main className="space-y-2">
         <HeroSection />
-        <ProjectsSection />
-        <SkillsSection />
-        <ExperienceSection />
-        <EducationSection />
-        <ContactSection />
+        <section id="projects">
+          <ProjectsSection />
+        </section>
+        <section id="skills">
+          <SkillsSection />
+        </section>
+        <section id="experience">
+          <ExperienceSection />
+        </section>
+        <section id="education">
+          <EducationSection />
+        </section>
+        <section id="contact">
+          <ContactSection />
+        </section>
       </main>
       <Footer />
     </div>
