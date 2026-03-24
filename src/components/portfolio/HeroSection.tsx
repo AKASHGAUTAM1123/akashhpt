@@ -39,7 +39,7 @@ const HeroSection = () => {
 
             <div className="flex flex-wrap items-center gap-4 mb-6">
               <a
-                href="https://drive.google.com/file/d/1SOqh6JpDWElWk23CKEL1Tb9R3qvpCT3j/view?usp=sharing"
+                href="https://drive.google.com/file/d/14VUm945vx6qpTk2ZaJh5jDQsiQi6fRX8/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
               >

@@ -57,7 +57,7 @@ const projects: MediaRowItem[] = [
       "Created interactive visualizations and maps for real-time weather insights",
       "Implemented forecasting features using historical data and machine learning models",
     ],
-    stack: ["HTML", "CSS", "JavaScript", "PHP", "MySQL"],
+    stack: ["Power BI", "Excel"],
     timeline: "Mar 2025 – Apr 2025",
     links: [{ label: "GitHub", href: "https://github.com/AKASHGAUTAM1123/WEATHER-DASHBOARD-PBI-" }]
   },
