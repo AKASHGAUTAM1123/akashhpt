@@ -105,7 +105,7 @@ const HeroSection = () => {
             </div>
             <div className="absolute bottom-8 right-6 grid gap-2">
               <div className="px-4 py-2 rounded-lg bg-black/70 text-white text-xs uppercase tracking-[0.2em]">
-                Data Analyst
+                Passionate Data Analyst
               </div>
               <div className="px-4 py-2 rounded-lg bg-black/70 text-white text-xs uppercase tracking-[0.2em]">
                 Python + PowerBI
