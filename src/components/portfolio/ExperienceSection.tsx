@@ -73,7 +73,7 @@ const ExperienceSection = () => {
   return (
     <>
       <MediaRow
-        title="Certificates"
+        title="Certificates & Achievements"
         items={experiences}
         onItemClick={(item) => setSelected(item)}
       />
