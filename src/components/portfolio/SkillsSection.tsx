@@ -8,7 +8,7 @@ const skills: MediaRowItem[] = [
     subtitle: "Core Stack",
     description: "C, C++, Java, JavaScript, Python",
     meta: "Languages",
-    tags: ["JavaScript", "TypeScript", "Python"],
+    tags: ["JavaScript", "Python"],
     gradient: "bg-gradient-to-br from-slate-900 via-gray-800 to-zinc-900",
     imageUrl: "/Languages.png",
     longDescription: "Multi-language development across systems, web, scripting, and backend ecosystems.",
