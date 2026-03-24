@@ -19,7 +19,7 @@ const Index = () => {
         <section id="skills">
           <SkillsSection />
         </section>
-        <section id="experience">
+        <section id="certificates">
           <ExperienceSection />
         </section>
         <section id="education">
