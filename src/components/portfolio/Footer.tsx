@@ -14,7 +14,7 @@ const Footer = () => {
             <div className="grid gap-2">
               <a href="#projects" className="hover:text-foreground transition-colors">Projects</a>
               <a href="#skills" className="hover:text-foreground transition-colors">Skills</a>
-              <a href="#certificates" className="hover:text-foreground transition-colors">Certificates</a>
+              <a href="#certificate" className="hover:text-foreground transition-colors">Certificate</a>
               <a href="#contact" className="hover:text-foreground transition-colors">Contact</a>
             </div>
           </div>
