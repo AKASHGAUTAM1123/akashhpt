@@ -32,7 +32,7 @@ const skills: MediaRowItem[] = [
     meta: "Frameworks",
     tags: ["pandas", "NumPy", "NLTK"],
     gradient: "bg-gradient-to-br from-emerald-900 via-green-900 to-teal-900",
-    imageUrl: "/images.png",
+    imageUrl: "/work.png",
     longDescription: "Modern frameworks for fast UI delivery and scalable backend services.",
     highlights: ["React UI systems", "Express API architecture", "Utility-first styling with Tailwind"],
   },
