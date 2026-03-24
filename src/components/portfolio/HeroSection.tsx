@@ -97,7 +97,7 @@ const HeroSection = () => {
               <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/20 to-black/10" />
               <div className="absolute inset-0 bg-[radial-gradient(circle_at_70%_20%,_rgba(255,255,255,0.15),_transparent_40%)]" />
               <img
-                src="/myportfolioimage.png"
+                src="/portfolioimage.png"
                 alt="Akash Gautam"
                 className="w-full h-[420px] sm:h-[480px] lg:h-[520px] object-cover object-top scale-[1.02]"
                 loading="lazy"
