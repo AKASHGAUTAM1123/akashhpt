@@ -12,7 +12,7 @@ const skills: MediaRowItem[] = [
     gradient: "bg-gradient-to-br from-slate-900 via-gray-800 to-zinc-900",
     imageUrl: "/Languages.png",
     longDescription: "Multi-language development across systems, web, scripting, and backend ecosystems.",
-    highlights: ["C/C++ for systems thinking", "JavaScript/TypeScript for web", "Python & Java for backend + automation"],
+    highlights: ["C/C++ for systems thinking", "Python & Java for backend + automation"],
   },
   {
     title: "Web Technologies",
@@ -32,7 +32,7 @@ const skills: MediaRowItem[] = [
     meta: "Frameworks",
     tags: ["pandas", "NumPy", "NLTK"],
     gradient: "bg-gradient-to-br from-emerald-900 via-green-900 to-teal-900",
-    imageUrl: "/reactnode.png",
+    imageUrl: "/images.png",
     longDescription: "Modern frameworks for fast UI delivery and scalable backend services.",
     highlights: ["React UI systems", "Express API architecture", "Utility-first styling with Tailwind"],
   },
